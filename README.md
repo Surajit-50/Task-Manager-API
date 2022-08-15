@@ -1,4 +1,4 @@
-# TaskBar API
+# Task Manager API
 Please download the source code and get into your particular folder in your vs code
 ## Deployment
 
